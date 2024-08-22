@@ -4,4 +4,7 @@ As part of my journey in Machine Learning course with Digital Egypt Builders Ini
 >> 1. Covariance Matrix
 >> 2. Eigenvalues & eigenvectors
 >> 3. Intro to Pandas
->> 4. Data cleaning (Null values & Duplicates)
+>> 4. Data cleaning 
+          - Handling Null values & Duplicates
+          - Data Visualization & Plotting 
+          - Data Imputation 
