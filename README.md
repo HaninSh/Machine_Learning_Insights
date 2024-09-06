@@ -8,4 +8,5 @@ As part of my journey in Machine Learning course with Digital Egypt Builders Ini
       - Handling Null values & Duplicates
       - Data Visualization & Plotting 
       - Data Imputation
-      - Handling outliers  
+      - Handling outliers
+      - Categorical Encoding
