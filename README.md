@@ -10,4 +10,8 @@ As part of my journey in Machine Learning course with Digital Egypt Builders Ini
       - Data Imputation
       - Handling outliers
       - Categorical Encoding
-      - Data Scaling Techniques 
+      - Data Scaling Techniques
+      - Handling Imbalanced Data
+      - Dimensionality Reduction
+           - Feature Extraction
+           - Feature Selection
