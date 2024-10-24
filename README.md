@@ -1,5 +1,7 @@
 ## Machine Learning Insights 
 As part of my journey in Machine Learning course with Digital Egypt Pioneers Initiative (DEPI), I decided to summarize and illustrate some of the main topics and share them!
+[Review All Documents](https://drive.google.com/drive/u/1/folders/1SdZLVksi-9kDAAv-Q6wNqURpmxsD1Mhm)
+
 ### Topics Covered in this repo:
 1. Covariance Matrix
 2. Eigenvalues & eigenvectors
@@ -15,5 +17,7 @@ As part of my journey in Machine Learning course with Digital Egypt Pioneers Ini
       - Dimensionality Reduction
            - Feature Extraction
            - Feature Selection
-       
-[Review All Documents](https://drive.google.com/drive/u/1/folders/1SdZLVksi-9kDAAv-Q6wNqURpmxsD1Mhm)
+
+
+
+
