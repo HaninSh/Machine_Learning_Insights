@@ -18,6 +18,8 @@ As part of my journey in Machine Learning course with Digital Egypt Pioneers Ini
       - Dimensionality Reduction
            - Feature Extraction
            - Feature Selection
+5. Machine Learning
+   - Intro to ML
 
 
 
