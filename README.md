@@ -16,6 +16,7 @@ As part of my journey in Machine Learning course with Digital Egypt Pioneers Ini
       - Dimensionality Reduction
            - [Feature Extraction](https://github.com/HaninSh/Machine_Learning_Insights/tree/main/%234_Data_Preprocessing/%238_Dimensionality_Reduction/%231_Feature_Extraction)
            - [Feature Selection](https://github.com/HaninSh/Machine_Learning_Insights/tree/main/%234_Data_Preprocessing/%238_Dimensionality_Reduction/%232_Feature_Selection)
+      - [Example on preprocessing pipeline](https://github.com/HaninSh/Machine_Learning_Insights/tree/main/%234_Data_Preprocessing/%239_Example_on_Preprocessing_Pipeline)
 5. Machine Learning
    - [Intro to ML](https://github.com/HaninSh/Machine_Learning_Insights/tree/main/%235_Machine_Learning/Intro_to_Machine_Learning)
 
