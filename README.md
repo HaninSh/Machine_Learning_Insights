@@ -1,9 +1,7 @@
 ## Machine Learning Insights 
 As part of my journey in Machine Learning course with Digital Egypt Pioneers Initiative (DEPI), I decided to summarize and illustrate some of the main topics and share them!
 
-[Review All Documents](https://drive.google.com/drive/u/1/folders/1SdZLVksi-9kDAAv-Q6wNqURpmxsD1Mhm)
-
-### Topics Covered in this repo:
+### Table of Content
 1. [Covariance Matrix](https://github.com/HaninSh/Machine_Learning_Insights/tree/main/%231_Covariance_Matrix)
 2. [Eigenvalues & eigenvectors](https://github.com/HaninSh/Machine_Learning_Insights/tree/main/%232_Eigenvalues%20%26%20eigenvectors)
 3. [Intro to Pandas](https://github.com/HaninSh/Machine_Learning_Insights/tree/main/%233_What_is_Pandas)
@@ -22,5 +20,8 @@ As part of my journey in Machine Learning course with Digital Egypt Pioneers Ini
    - [Intro to ML](https://github.com/HaninSh/Machine_Learning_Insights/tree/main/%235_Machine_Learning/Intro_to_Machine_Learning)
 
 
+### Extra Resources:
+- Review All Documents: [Click here](https://drive.google.com/drive/u/1/folders/1SdZLVksi-9kDAAv-Q6wNqURpmxsD1Mhm)
+- More examples on Kaggle: [Click here](https://www.kaggle.com/haninsherif33)
 
 
