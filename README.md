@@ -20,7 +20,9 @@ As part of my journey in Machine Learning course with Digital Egypt Pioneers Ini
    - [Intro to ML](https://github.com/HaninSh/Machine_Learning_Insights/tree/main/%235_Machine_Learning/Intro_to_Machine_Learning)
 
 
-### Extra Resources:
+
+
+### Extra Resources
 - Review All Documents: [Click here](https://drive.google.com/drive/u/1/folders/1SdZLVksi-9kDAAv-Q6wNqURpmxsD1Mhm)
 - More examples on Kaggle: [Click here](https://www.kaggle.com/haninsherif33)
 
